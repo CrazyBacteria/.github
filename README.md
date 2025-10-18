@@ -6,6 +6,8 @@
 
 ## 🎙 Featured Product – [EveryDubbing](https://everydubbing.com)
 
+<img width="1245" height="978" alt="image" src="https://github.com/user-attachments/assets/7f3b51bb-c2ae-48a4-84ed-6f8924ae11f4" />
+
 **EveryDubbing**은 유튜브 영어 영상을 한국어로 **실시간 더빙**해주는 서비스입니다.  
 링크 하나만 입력하면, 자막 추출 → 번역 → 음성 생성까지 자동으로 처리되어  
 누구나 모국어로 영상 콘텐츠를 소비할 수 있습니다.
@@ -15,6 +17,7 @@
 - 🚀 Lean MVP 전략으로 빠르게 검증하고 개선하는 **스타트업 방식**으로 개발
 
 👉 [everydubbing.com](https://everydubbing.com)
+
 
 ---
 
